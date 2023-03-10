@@ -1,0 +1,29 @@
+.sidebarTop{
+        flex: 0.2;
+        text-align: center;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        background: white;
+        border: 1px solid lightgrey;
+     
+        padding: 10px;
+        top:80px;
+}
+.sidebarTop > img{
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+}
+.sidebarTop > h2{
+    font-size: 18px;
+    color: grey;
+    font-weight: 400;
+    text-align: center;
+}
+.sidebarTop > h4{
+    font-size: 14px;
+    color: lightgrey;
+    font-weight: 400;
+    text-align: center;
+}

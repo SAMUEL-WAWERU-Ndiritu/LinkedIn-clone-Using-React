@@ -1,0 +1,23 @@
+.SidebarOptions{
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    
+
+}
+.SidebarOptions__hash{
+    margin-right: 10px;
+    margin-left: 5px;
+    font-size: bold;
+    color: gray;
+    font-size: 13px;
+    text-align: left;
+}
+.SidebarOptions > h4{
+    color: gray;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: right;
+    margin-left: 30px;
+    
+}

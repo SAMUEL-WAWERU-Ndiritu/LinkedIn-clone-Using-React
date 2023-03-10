@@ -1,0 +1,41 @@
+.FeedText{
+    text-align: center;
+    margin-top:0px ;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background: white;
+    border: 1px solid lightgrey;
+    justify-content: space-between;
+    padding:10px;
+    margin-bottom: 10px;
+    max-height: 20vh;
+    
+}
+.FeedText > h2{
+    text-align: left;
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    color: grey;
+    object-fit: contain;
+}
+.FeedText > h4{
+    text-align: left;
+    margin-left: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    color: grey;
+}
+.FeedText > p{
+    text-align: left;
+    margin-left: 5px;
+    font-size: 13px;
+    font-weight: bold;
+    color: grey;
+}
+.FeedText__options{
+    display: flex;
+    justify-content: space-evenly;
+    object-fit: contain;
+
+}

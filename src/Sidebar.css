@@ -1,0 +1,52 @@
+.sidebar{
+    flex: 0.2;
+    margin-top: 30px;
+}
+.sidebar__stat{
+    text-align: center;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background: white;
+    border: 1px solid lightgrey;
+    display: flex;
+    justify-content: space-between;
+    padding:20px;
+    
+}
+
+.sidebar__stat > h4{
+   font-size: 12px;
+   color: grey;
+   font-size: bold;
+   text-align: center;
+}
+.sidebar__stat > p{
+    color:blue;
+    font-size: 12px;
+    font-size: 600;
+    text-align: center;
+}
+.sidebar__bottom{
+    text-align: center;
+    margin-top:10px ;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background: white;
+    border: 1px solid lightgrey;
+    justify-content: space-between;
+    padding:20px;
+}
+.sidebar__bottom > h4{
+    text-align: left;
+    margin-bottom: 10px;
+    color: gray;
+}
+
+
+
+
+
+
+
+
+
